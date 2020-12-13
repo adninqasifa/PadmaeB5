@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">PadmaeB5</string>
+    <string name="yan">
+        "Name                    : Yan Mursal\n"
+        "Birth of Date       : 01 January 1953\n"
+        "Phone Number  : +62 821 1395 8415\n"
+        "Address               : Kompleks Padmae Regency blok B5\n"
+        "Jl. Pasirluyu Barat,\n"
+        "RT06/RW07, Ancol, Kec. Regol,\n"
+        "Kota Bandung, Jawa Barat 40254,\n"
+        "Indonesia\n\n"
+    </string>
+    <string name="silvia">
+        "Name                    : Silvia Maharani\n"
+        "Birth of Date       : 10 Agustus 1961\n"
+        "Phone Number  : +62 877-9139-4918\n"
+        "Address               : Perum Agus Salim Residen no 9,\n"
+        "Jl Agus Salim,\n"
+        "Kota Banyuwangi, Jawa Timur 68416,\n"
+        "Indonesia\n\n"
+    </string>
+    <string name="adninqasifa">
+        "Name                    : Adnin Qasifa\n"
+        "Birth of Date       : 13 July 1988\n"
+        "Phone Number   : +62 813 8150 3507\n"
+        "Address               : Jl. Desa Putra No.44,\n"
+        "RT01/RW06, Srengseng Sawah, Kec. Jagakarsa,\n"
+        "Kota Jakarta Selatan, DKI Jakarta 12640,\n"
+        "Indonesia\n\n"
+        "The First Child of Yan Mursal and Silvia Maharani"
+    </string>
+    <string name="kartika">
+        "Name                    : Kartika Prabawati\n"
+        "Birth of Date       : 27 March 1990\n"
+        "Phone Number : +62 813-9441-5281\n"
+        "Address               : Jl. Desa Putra No.44,\n"
+        "RT01/RW06, Srengseng Sawah, Kec. Jagakarsa,\n"
+        "Kota Jakarta Selatan, DKI Jakarta 12640,\n"
+        "Indonesia\n\n"
+        "The Wife of Adnin Qasifa""
+    </string>
+    <string name="gian">
+        "Name                    : Gian Wirda Satria\n"
+        "Birth of Date       : 03 July 1990\n"
+        "Phone Number   : +62 812-2438-4880\n"
+        "Address               : The Savia BSD City,\n"
+        "Cluster Tevana Blok B12 No. 8\n"
+        "Kec. Serpong,\n"
+        "Kota Tanggerang Selatan, Jawa Barat 15311,\n"
+        "Indonesia\n\n"
+        "The Husband of Syarifa Adharani"
+    </string>
+    <string name="ifa">
+        "Name                    : Syarifa Adharani\n"
+        "Birth of Date       : 11 June 1992\n"
+        "Phone Number   : +62 812-1460-0345\n"
+        "Address               : The Savia BSD City,\n"
+        "Cluster Tevana Blok B12 No. 8\n"
+        "Kec. Serpong,\n"
+        "Kota Tanggerang Selatan, Jawa Barat 15311,\n"
+        "Indonesia\n\n"
+        "The Second Child of Yan Mursal and Silvia Maharani"
+    </string>
+    <string name="kalea">
+        "Name                    : Kalea Nara\n"
+        "Birth of Date       : 08 January 2019\n"
+        "Address               : The Savia BSD City,\n"
+        "Cluster Tevana Blok B12 No. 8\n"
+        "Kec. Serpong,\n"
+        "Kota Tanggerang Selatan, Jawa Barat 15311,\n"
+        "Indonesia\n\n"
+        "The First Child of Gian Wirda Satria and Syarifa Adharani"
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>

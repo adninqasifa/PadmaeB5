@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.PadmaeB5">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".yanmursal" />
+        <activity android:name=".syarifaadharani" />
+        <activity android:name=".silviamaharani" />
+        <activity android:name=".kel_anak2" />
+        <activity android:name=".kel_anak1" />
+        <activity android:name=".kartikaprabawati" />
+        <activity android:name=".kaleanara" />
+        <activity android:name=".gianwirdasatria" />
+        <activity android:name=".familytree" />
+        <activity android:name=".cucu" />
+        <activity android:name=".anak" />
+        <activity android:name=".adninqasifa" />
+        <activity android:name=".MainActivity2" />
+        <activity android:name=".about" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
